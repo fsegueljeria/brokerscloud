@@ -1,0 +1,9 @@
+{
+  "navigation": {
+    "home": "Home",
+    "property": "Properties",
+    "maintainers": "Maintainers",
+    "list": "List",
+    "add": "Add"
+  }
+}
